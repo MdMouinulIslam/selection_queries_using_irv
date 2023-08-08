@@ -1,0 +1,201 @@
+,movieId,title,genres
+0,11,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
+1,103,Jumanji (1995),Adventure|Children|Fantasy
+2,130,Heat (1995),Action|Crime|Thriller
+3,66,GoldenEye (1995),Action|Adventure|Thriller
+4,197,Casino (1995),Crime|Drama
+5,175,Ace Ventura: When Nature Calls (1995),Comedy
+6,172,Get Shorty (1995),Comedy|Crime|Thriller
+7,31,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Mystery|Sci-Fi|Thriller
+8,74,Babe (1995),Children|Drama
+9,123,Clueless (1995),Comedy|Romance
+10,15,Seven (a.k.a. Se7en) (1995),Mystery|Thriller
+11,13,"Usual Suspects, The (1995)",Crime|Mystery|Thriller
+12,189,Broken Arrow (1996),Action|Adventure|Thriller
+13,138,Happy Gilmore (1996),Comedy
+14,7,Braveheart (1995),Action|Drama|War
+15,120,Taxi Driver (1976),Crime|Drama|Thriller
+16,185,"Birdcage, The (1996)",Comedy
+17,17,Apollo 13 (1995),Adventure|Drama|IMAX
+18,59,Batman Forever (1995),Action|Adventure|Comedy|Crime
+19,126,Crimson Tide (1995),Drama|Thriller|War
+20,48,Die Hard: With a Vengeance (1995),Action|Crime|Thriller
+21,99,"Net, The (1995)",Action|Crime|Thriller
+22,97,Waterworld (1995),Action|Adventure|Sci-Fi
+23,121,Clerks (1994),Comedy
+24,62,Dumb & Dumber (Dumb and Dumber) (1994),Adventure|Comedy
+25,108,Interview with the Vampire: The Vampire Chronicles (1994),Drama|Horror
+26,5,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi
+27,161,Natural Born Killers (1994),Action|Crime|Thriller
+28,133,Outbreak (1995),Action|Drama|Sci-Fi|Thriller
+29,63,Léon: The Professional (a.k.a. The Professional) (Léon) (1994),Action|Crime|Drama|Thriller
+30,2,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller
+31,56,Stargate (1994),Action|Adventure|Sci-Fi
+32,1,"Shawshank Redemption, The (1994)",Crime|Drama
+33,112,Star Trek: Generations (1994),Adventure|Drama|Sci-Fi
+34,140,While You Were Sleeping (1995),Comedy|Romance
+35,40,Ace Ventura: Pet Detective (1994),Comedy
+36,104,Clear and Present Danger (1994),Action|Crime|Drama|Thriller
+37,0,Forrest Gump (1994),Comedy|Drama|Romance|War
+38,124,Four Weddings and a Funeral (1994),Comedy|Romance
+39,32,"Lion King, The (1994)",Adventure|Animation|Children|Drama|Musical|IMAX
+40,42,"Mask, The (1994)",Action|Comedy|Crime|Fantasy
+41,33,Speed (1994),Action|Romance|Thriller
+42,30,True Lies (1994),Action|Adventure|Comedy|Romance|Thriller
+43,190,Addams Family Values (1993),Children|Comedy|Fantasy
+44,131,Cliffhanger (1993),Action|Adventure|Thriller
+45,132,"Firm, The (1993)",Drama|Thriller
+46,22,"Fugitive, The (1993)",Thriller
+47,6,Jurassic Park (1993),Action|Adventure|Sci-Fi|Thriller
+48,49,Mrs. Doubtfire (1993),Comedy|Drama
+49,9,Schindler's List (1993),Drama|War
+50,117,Sleepless in Seattle (1993),Comedy|Drama|Romance
+51,79,Blade Runner (1982),Action|Sci-Fi|Thriller
+52,154,"Nightmare Before Christmas, The (1993)",Animation|Children|Fantasy|Musical
+53,94,Home Alone (1990),Children|Comedy
+54,95,Ghost (1990),Comedy|Drama|Fantasy|Romance|Thriller
+55,27,Aladdin (1992),Adventure|Animation|Children|Comedy|Musical
+56,8,Terminator 2: Judgment Day (1991),Action|Sci-Fi
+57,38,Dances with Wolves (1990),Adventure|Drama|Western
+58,23,Batman (1989),Action|Crime|Thriller
+59,3,"Silence of the Lambs, The (1991)",Crime|Horror|Thriller
+60,46,Beauty and the Beast (1991),Animation|Children|Fantasy|Musical|Romance|IMAX
+61,61,Pretty Woman (1990),Comedy|Romance
+62,28,Fargo (1996),Comedy|Crime|Drama|Thriller
+63,39,Mission: Impossible (1996),Action|Adventure|Mystery|Thriller
+64,84,"Rock, The (1996)",Action|Adventure|Thriller
+65,80,Twister (1996),Action|Adventure|Romance|Thriller
+66,144,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964),Comedy|War
+67,128,Trainspotting (1996),Comedy|Crime|Drama
+68,16,Independence Day (a.k.a. ID4) (1996),Action|Adventure|Sci-Fi|Thriller
+69,198,"Nutty Professor, The (1996)",Comedy|Fantasy|Romance|Sci-Fi
+70,21,"Godfather, The (1972)",Crime|Drama
+71,192,Rear Window (1954),Mystery|Thriller
+72,134,Casablanca (1942),Drama|Romance
+73,160,"Wizard of Oz, The (1939)",Adventure|Children|Fantasy|Musical
+74,107,2001: A Space Odyssey (1968),Adventure|Drama|Sci-Fi
+75,47,Die Hard (1988),Action|Crime|Thriller
+76,90,Willy Wonka & the Chocolate Factory (1971),Children|Comedy|Fantasy|Musical
+77,171,Monty Python's Life of Brian (1979),Comedy
+78,68,Reservoir Dogs (1992),Crime|Mystery|Thriller
+79,82,E.T. the Extra-Terrestrial (1982),Children|Drama|Sci-Fi
+80,196,Top Gun (1986),Action|Romance
+81,60,Monty Python and the Holy Grail (1975),Adventure|Comedy|Fantasy
+82,65,One Flew Over the Cuckoo's Nest (1975),Drama
+83,12,Star Wars: Episode V - The Empire Strikes Back (1980),Action|Adventure|Sci-Fi
+84,52,"Princess Bride, The (1987)",Action|Adventure|Comedy|Fantasy|Romance
+85,18,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),Action|Adventure
+86,76,Aliens (1986),Action|Adventure|Horror|Sci-Fi
+87,88,"Clockwork Orange, A (1971)",Crime|Drama|Sci-Fi|Thriller
+88,113,Apocalypse Now (1979),Action|Drama|War
+89,20,Star Wars: Episode VI - Return of the Jedi (1983),Action|Adventure|Sci-Fi
+90,75,Goodfellas (1990),Crime|Drama
+91,45,Alien (1979),Horror|Sci-Fi
+92,194,Psycho (1960),Crime|Horror
+93,193,"Blues Brothers, The (1980)",Action|Comedy|Musical
+94,72,"Godfather: Part II, The (1974)",Crime|Drama
+95,129,Full Metal Jacket (1987),Drama|War
+96,70,"Terminator, The (1984)",Action|Sci-Fi|Thriller
+97,184,Dead Poets Society (1989),Drama
+98,106,"Shining, The (1980)",Horror
+99,168,Stand by Me (1986),Adventure|Drama
+100,50,Groundhog Day (1993),Comedy|Fantasy|Romance
+101,34,Back to the Future (1985),Adventure|Comedy|Sci-Fi
+102,55,Indiana Jones and the Last Crusade (1989),Action|Adventure
+103,188,When Harry Met Sally... (1989),Comedy|Romance
+104,166,Star Trek: First Contact (1996),Action|Adventure|Sci-Fi|Thriller
+105,164,Jaws (1975),Action|Horror
+106,183,Mars Attacks! (1996),Action|Comedy|Sci-Fi
+107,187,Jerry Maguire (1996),Drama|Romance
+108,137,Austin Powers: International Man of Mystery (1997),Action|Adventure|Comedy
+109,93,"Fifth Element, The (1997)",Action|Adventure|Comedy|Sci-Fi
+110,37,Men in Black (a.k.a. MIB) (1997),Action|Comedy|Sci-Fi
+111,199,Contact (1997),Drama|Sci-Fi
+112,170,"Hunt for Red October, The (1990)",Action|Adventure|Thriller
+113,145,L.A. Confidential (1997),Crime|Film-Noir|Mystery|Thriller
+114,182,Gattaca (1997),Drama|Sci-Fi|Thriller
+115,77,"Truman Show, The (1998)",Comedy|Drama|Sci-Fi
+116,53,Good Will Hunting (1997),Drama|Romance
+117,57,Titanic (1997),Drama|Romance
+118,116,"Big Lebowski, The (1998)",Comedy|Crime
+119,147,As Good as It Gets (1997),Comedy|Drama|Romance
+120,159,Armageddon (1998),Action|Romance|Sci-Fi|Thriller
+121,118,There's Something About Mary (1998),Comedy|Romance
+122,148,Rain Man (1988),Drama
+123,98,"Breakfast Club, The (1985)",Comedy|Drama
+124,180,Back to the Future Part II (1989),Adventure|Comedy|Sci-Fi
+125,176,Back to the Future Part III (1990),Adventure|Comedy|Sci-Fi|Western
+126,25,Saving Private Ryan (1998),Action|Drama|War
+127,111,Indiana Jones and the Temple of Doom (1984),Action|Adventure|Fantasy
+128,165,Beetlejuice (1988),Comedy|Fantasy
+129,173,Life Is Beautiful (La Vita è bella) (1997),Comedy|Drama|Romance|War
+130,73,American History X (1998),Crime|Drama
+131,158,"Bug's Life, A (1998)",Adventure|Animation|Children|Comedy
+132,156,Shakespeare in Love (1998),Comedy|Drama|Romance
+133,150,Office Space (1999),Comedy|Crime
+134,4,"Matrix, The (1999)",Action|Sci-Fi|Thriller
+135,181,"Mummy, The (1999)",Action|Adventure|Comedy|Fantasy|Horror|Thriller
+136,58,Star Wars: Episode I - The Phantom Menace (1999),Action|Adventure|Sci-Fi
+137,85,Austin Powers: The Spy Who Shagged Me (1999),Action|Adventure|Comedy
+138,125,American Pie (1999),Comedy|Romance
+139,89,Ghostbusters (a.k.a. Ghost Busters) (1984),Action|Comedy|Sci-Fi
+140,29,"Sixth Sense, The (1999)",Drama|Horror|Mystery
+141,178,Airplane! (1980),Comedy
+142,163,Big (1988),Comedy|Drama|Fantasy|Romance
+143,14,American Beauty (1999),Drama|Romance
+144,177,Total Recall (1990),Action|Adventure|Sci-Fi|Thriller
+145,110,Ferris Bueller's Day Off (1986),Comedy
+146,10,Fight Club (1999),Action|Crime|Drama|Thriller
+147,142,Who Framed Roger Rabbit? (1988),Adventure|Animation|Children|Comedy|Crime|Fantasy|Mystery
+148,139,Being John Malkovich (1999),Comedy|Drama|Fantasy
+149,143,Toy Story 2 (1999),Adventure|Animation|Children|Comedy|Fantasy
+150,101,"Green Mile, The (1999)",Crime|Drama
+151,36,Gladiator (2000),Action|Adventure|Drama
+152,64,X-Men (2000),Action|Adventure|Sci-Fi
+153,195,Almost Famous (2000),Drama
+154,167,Meet the Parents (2000),Comedy
+155,146,Requiem for a Dream (2000),Drama
+156,102,"Crouching Tiger, Hidden Dragon (Wo hu cang long) (2000)",Action|Drama|Romance
+157,155,Snatch (2000),Comedy|Crime|Thriller
+158,136,Cast Away (2000),Drama
+159,151,"O Brother, Where Art Thou? (2000)",Adventure|Comedy|Crime
+160,41,Memento (2000),Mystery|Thriller
+161,35,Shrek (2001),Adventure|Animation|Children|Comedy|Fantasy|Romance
+162,109,Donnie Darko (2001),Drama|Mystery|Sci-Fi|Thriller
+163,67,"Monsters, Inc. (2001)",Adventure|Animation|Children|Comedy|Fantasy
+164,114,Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone) (2001),Adventure|Children|Fantasy
+165,91,Ocean's Eleven (2001),Crime|Thriller
+166,87,"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)",Comedy|Romance
+167,19,"Lord of the Rings: The Fellowship of the Ring, The (2001)",Adventure|Fantasy
+168,81,"Beautiful Mind, A (2001)",Drama|Romance
+169,186,Ice Age (2002),Adventure|Animation|Children|Comedy
+170,83,Spider-Man (2002),Action|Adventure|Sci-Fi|Thriller
+171,157,Star Wars: Episode II - Attack of the Clones (2002),Action|Adventure|Sci-Fi|IMAX
+172,100,"Bourne Identity, The (2002)",Action|Mystery|Thriller
+173,86,Minority Report (2002),Action|Crime|Mystery|Sci-Fi|Thriller
+174,179,Spirited Away (Sen to Chihiro no kamikakushi) (2001),Adventure|Animation|Fantasy
+175,127,Harry Potter and the Chamber of Secrets (2002),Adventure|Fantasy
+176,24,"Lord of the Rings: The Two Towers, The (2002)",Adventure|Fantasy
+177,96,Catch Me If You Can (2002),Crime|Drama
+178,149,"Matrix Reloaded, The (2003)",Action|Adventure|Sci-Fi|Thriller|IMAX
+179,54,Finding Nemo (2003),Adventure|Animation|Children|Comedy
+180,43,Pirates of the Caribbean: The Curse of the Black Pearl (2003),Action|Adventure|Comedy|Fantasy
+181,69,Kill Bill: Vol. 1 (2003),Action|Crime|Thriller
+182,26,"Lord of the Rings: The Return of the King, The (2003)",Action|Adventure|Drama|Fantasy
+183,71,Eternal Sunshine of the Spotless Mind (2004),Drama|Romance|Sci-Fi
+184,105,Kill Bill: Vol. 2 (2004),Action|Drama|Thriller
+185,162,Shrek 2 (2004),Adventure|Animation|Children|Comedy|Musical|Romance
+186,153,Harry Potter and the Prisoner of Azkaban (2004),Adventure|Fantasy|IMAX
+187,78,"Incredibles, The (2004)",Action|Adventure|Animation|Children|Comedy
+188,191,Sin City (2005),Action|Crime|Film-Noir|Mystery|Thriller
+189,92,Batman Begins (2005),Action|Crime|IMAX
+190,135,V for Vendetta (2006),Action|Sci-Fi|Thriller|IMAX
+191,115,"Departed, The (2006)",Crime|Drama|Thriller
+192,169,"Prestige, The (2006)",Drama|Mystery|Sci-Fi|Thriller
+193,44,"Dark Knight, The (2008)",Action|Crime|Drama|IMAX
+194,152,Iron Man (2008),Action|Adventure|Sci-Fi
+195,122,WALL·E (2008),Adventure|Animation|Children|Romance|Sci-Fi
+196,174,Inglourious Basterds (2009),Action|Drama|War
+197,119,Up (2009),Adventure|Animation|Children|Drama
+198,141,Avatar (2009),Action|Adventure|Sci-Fi|IMAX
+199,51,Inception (2010),Action|Crime|Drama|Mystery|Sci-Fi|Thriller|IMAX

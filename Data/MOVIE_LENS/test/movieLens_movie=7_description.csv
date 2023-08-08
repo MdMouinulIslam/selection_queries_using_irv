@@ -1,0 +1,8 @@
+,movieId,title,genres
+0,5,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi
+1,2,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller
+2,1,"Shawshank Redemption, The (1994)",Crime|Drama
+3,0,Forrest Gump (1994),Comedy|Drama|Romance|War
+4,6,Jurassic Park (1993),Action|Adventure|Sci-Fi|Thriller
+5,3,"Silence of the Lambs, The (1991)",Crime|Horror|Thriller
+6,4,"Matrix, The (1999)",Action|Sci-Fi|Thriller

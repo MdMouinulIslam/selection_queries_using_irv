@@ -1,0 +1,21 @@
+,movieId,title,genres
+0,11,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
+1,15,Seven (a.k.a. Se7en) (1995),Mystery|Thriller
+2,13,"Usual Suspects, The (1995)",Crime|Mystery|Thriller
+3,7,Braveheart (1995),Action|Drama|War
+4,17,Apollo 13 (1995),Adventure|Drama|IMAX
+5,5,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi
+6,2,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller
+7,1,"Shawshank Redemption, The (1994)",Crime|Drama
+8,0,Forrest Gump (1994),Comedy|Drama|Romance|War
+9,6,Jurassic Park (1993),Action|Adventure|Sci-Fi|Thriller
+10,9,Schindler's List (1993),Drama|War
+11,8,Terminator 2: Judgment Day (1991),Action|Sci-Fi
+12,3,"Silence of the Lambs, The (1991)",Crime|Horror|Thriller
+13,16,Independence Day (a.k.a. ID4) (1996),Action|Adventure|Sci-Fi|Thriller
+14,12,Star Wars: Episode V - The Empire Strikes Back (1980),Action|Adventure|Sci-Fi
+15,18,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),Action|Adventure
+16,4,"Matrix, The (1999)",Action|Sci-Fi|Thriller
+17,14,American Beauty (1999),Drama|Romance
+18,10,Fight Club (1999),Action|Crime|Drama|Thriller
+19,19,"Lord of the Rings: The Fellowship of the Ring, The (2001)",Adventure|Fantasy

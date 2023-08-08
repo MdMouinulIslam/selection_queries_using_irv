@@ -1,0 +1,6 @@
+Dataset,Number_Of_Candidates,Number_of_voters,Max_Ballot_length,Initial winner,Preferred winner,Number Ballots add,Heuristic v2 margin,our margin,Upper limit margin,heuristic v2 runtime,our runtime,baseline runtime,avg heap modify 
+adressa=8_ballot=5000bs=4,8,5000,4,3,7,4096,0,1176,4096,1.00E-06,9.8744548,1.0666919,0
+adressa=8_ballot=30000bs=4,8,30000,4,0,6,16384,0,6433,16384,1.30E-06,1.2375541,0.9365514,0
+adressa=8_ballot=1000bs=4,8,1000,4,3,5,1024,0,254,1024,1.10E-06,28.463564,0.6209425,0
+adressa=8_ballot=10000bs=4,8,10000,4,0,2,4096,0,1847,4096,1.60E-06,33.5173268,0.7063715,0
+,,,,,,,,2427.5,6400,,,,

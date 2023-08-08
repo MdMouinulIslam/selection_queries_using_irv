@@ -1,0 +1,16 @@
+,movieId,title,genres
+0,11,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
+1,14,"Usual Suspects, The (1995)",Crime|Mystery|Thriller
+2,7,Braveheart (1995),Action|Drama|War
+3,5,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi
+4,2,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller
+5,1,"Shawshank Redemption, The (1994)",Crime|Drama
+6,0,Forrest Gump (1994),Comedy|Drama|Romance|War
+7,6,Jurassic Park (1993),Action|Adventure|Sci-Fi|Thriller
+8,9,Schindler's List (1993),Drama|War
+9,8,Terminator 2: Judgment Day (1991),Action|Sci-Fi
+10,3,"Silence of the Lambs, The (1991)",Crime|Horror|Thriller
+11,12,Star Wars: Episode V - The Empire Strikes Back (1980),Action|Adventure|Sci-Fi
+12,4,"Matrix, The (1999)",Action|Sci-Fi|Thriller
+13,13,American Beauty (1999),Drama|Romance
+14,10,Fight Club (1999),Action|Crime|Drama|Thriller

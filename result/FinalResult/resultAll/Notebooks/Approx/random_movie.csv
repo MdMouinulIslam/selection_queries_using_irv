@@ -1,0 +1,7 @@
+Dataset,Number_Of_Candidates,Number_of_voters,Max_Ballot_length,Initial winner,Preferred winner,Number Ballots add,Heuristic v2 margin,our margin,Upper limit margin,heuristic v2 runtime,our runtime,baseline runtime,avg heap modify 
+movieLens_movie=9_ballot=10000000bs=4,9,525,4,7,1,64,0,18,64,1.40E-06,1.4189598,1.0013801,0
+movieLens_movie=8_ballot=10000000bs=4,8,523,4,7,6,64,0,14,64,1.30E-06,0.3353965,0.8428897,0
+movieLens_movie=7_ballot=10000000bs=4,7,521,4,5,6,64,0,19,64,1.50E-06,0.1473931,0.7284849,0
+movieLens_movie=6_ballot=10000000bs=4,6,517,4,5,0,2,0,1,2,1.50E-06,0.0320708,0.0008121,0
+movieLens_movie=5_ballot=10000000bs=4,5,499,4,2,0,32,0,14,32,1.50E-06,0.0164973,0.2295729,0
+,,,,,,,,66,226,,,,

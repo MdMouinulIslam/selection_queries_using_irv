@@ -1,0 +1,51 @@
+,movieId,title,genres
+0,11,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
+1,31,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Mystery|Sci-Fi|Thriller
+2,15,Seven (a.k.a. Se7en) (1995),Mystery|Thriller
+3,13,"Usual Suspects, The (1995)",Crime|Mystery|Thriller
+4,7,Braveheart (1995),Action|Drama|War
+5,17,Apollo 13 (1995),Adventure|Drama|IMAX
+6,48,Die Hard: With a Vengeance (1995),Action|Crime|Thriller
+7,5,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi
+8,2,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller
+9,1,"Shawshank Redemption, The (1994)",Crime|Drama
+10,40,Ace Ventura: Pet Detective (1994),Comedy
+11,0,Forrest Gump (1994),Comedy|Drama|Romance|War
+12,32,"Lion King, The (1994)",Adventure|Animation|Children|Drama|Musical|IMAX
+13,42,"Mask, The (1994)",Action|Comedy|Crime|Fantasy
+14,34,Speed (1994),Action|Romance|Thriller
+15,30,True Lies (1994),Action|Adventure|Comedy|Romance|Thriller
+16,22,"Fugitive, The (1993)",Thriller
+17,6,Jurassic Park (1993),Action|Adventure|Sci-Fi|Thriller
+18,49,Mrs. Doubtfire (1993),Comedy|Drama
+19,9,Schindler's List (1993),Drama|War
+20,27,Aladdin (1992),Adventure|Animation|Children|Comedy|Musical
+21,8,Terminator 2: Judgment Day (1991),Action|Sci-Fi
+22,38,Dances with Wolves (1990),Adventure|Drama|Western
+23,23,Batman (1989),Action|Crime|Thriller
+24,3,"Silence of the Lambs, The (1991)",Crime|Horror|Thriller
+25,45,Beauty and the Beast (1991),Animation|Children|Fantasy|Musical|Romance|IMAX
+26,28,Fargo (1996),Comedy|Crime|Drama|Thriller
+27,39,Mission: Impossible (1996),Action|Adventure|Mystery|Thriller
+28,16,Independence Day (a.k.a. ID4) (1996),Action|Adventure|Sci-Fi|Thriller
+29,21,"Godfather, The (1972)",Crime|Drama
+30,47,Die Hard (1988),Action|Crime|Thriller
+31,12,Star Wars: Episode V - The Empire Strikes Back (1980),Action|Adventure|Sci-Fi
+32,18,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),Action|Adventure
+33,20,Star Wars: Episode VI - Return of the Jedi (1983),Action|Adventure|Sci-Fi
+34,46,Alien (1979),Horror|Sci-Fi
+35,33,Back to the Future (1985),Adventure|Comedy|Sci-Fi
+36,37,Men in Black (a.k.a. MIB) (1997),Action|Comedy|Sci-Fi
+37,25,Saving Private Ryan (1998),Action|Drama|War
+38,4,"Matrix, The (1999)",Action|Sci-Fi|Thriller
+39,29,"Sixth Sense, The (1999)",Drama|Horror|Mystery
+40,14,American Beauty (1999),Drama|Romance
+41,10,Fight Club (1999),Action|Crime|Drama|Thriller
+42,36,Gladiator (2000),Action|Adventure|Drama
+43,41,Memento (2000),Mystery|Thriller
+44,35,Shrek (2001),Adventure|Animation|Children|Comedy|Fantasy|Romance
+45,19,"Lord of the Rings: The Fellowship of the Ring, The (2001)",Adventure|Fantasy
+46,24,"Lord of the Rings: The Two Towers, The (2002)",Adventure|Fantasy
+47,43,Pirates of the Caribbean: The Curse of the Black Pearl (2003),Action|Adventure|Comedy|Fantasy
+48,26,"Lord of the Rings: The Return of the King, The (2003)",Action|Adventure|Drama|Fantasy
+49,44,"Dark Knight, The (2008)",Action|Crime|Drama|IMAX

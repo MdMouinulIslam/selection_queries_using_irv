@@ -1,0 +1,6 @@
+Dataset,Number_Of_Candidates,Number_of_voters,Max_Ballot_length,Initial winner,Preferred winner,Number Ballots add,Heuristic v2 margin,Upper limit margin,heuristic v2 runtime,baseline runtime,avg heap modify 
+rand=10000_ballot=4,10000,9994,4,7486,2284,8,6,8,0.5804132,2.4176605,202
+rand=50000_ballot=4,50000,49995,4,16543,13988,8,1,8,3.1368421,8.9498744,1007
+rand=100000_ballot=4,100000,99994,4,35493,53438,16,14,16,6.971639,29.843294,1940
+rand=500000_ballot=4,500000,372233,4,9402,17513,32,17,32,32.2171386,226.0304436,21899
+rand=1000000_ballot=4,1000000,999999,4,105671,10042,32,15,32,71.2813205,405.2315069,58604

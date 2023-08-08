@@ -1,0 +1,6 @@
+Dataset,Number_Of_Candidates,Number_of_voters,Max_Ballot_length,Initial winner,Preferred winner,Number Ballots add,Heuristic v2 margin,Upper limit margin,heuristic v2 runtime,baseline runtime,avg heap modify 
+book=1000_ballot=4,1000,14868,4,10,12,256,88,256,1.2103294,14.7963952,9016
+book=5000_ballot=4,5000,26866,4,10,17,256,101,256,2.2298503,32.6315558,14820
+book=10000_ballot=4,10000,33803,4,10,18,256,115,256,2.6078338,40.3808092,17069
+book=15000_ballot=4,15000,38287,4,10,20,128,49,128,3.7359241,41.4282152,18357
+book=20000_ballot=4,20000,41624,4,10,3,256,74,256,4.8714278,56.6356872,19010
